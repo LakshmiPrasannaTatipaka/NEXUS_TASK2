@@ -4,7 +4,7 @@ https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset/data
 
  1.1 Dataset Overview
   Dataset Structure: Explore the Sentiment Analysis dataset to understand its structure,          features, and size.
- Key Variables: Identify key variables such as text contnt and sentiment labels.
+ Key Variables: Identify key variables such as text cotnt and sentiment labels.
 
   2. Data Preprocessing
 
